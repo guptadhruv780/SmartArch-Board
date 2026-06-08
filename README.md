@@ -8,7 +8,7 @@
 
 ---
 
-## ✨ Key Features
+## ✨ Key Features.
 
 - 🔄 **Real-Time Collaboration:** Synchronous multi-user editing with live cursors and instant state updates via WebSockets.
 - 🧠 **AI Design Assistant:** Intelligent suggestions and architectural insights powered by Groq AI.
