@@ -1,4 +1,4 @@
-# 🎨 SmartArch Board
+# 🎨 SmartArch Board.
 
 ![SmartArch Banner](file:///C:/Users/DHRUV%20GUPTA/.gemini/antigravity/brain/c7d0d89d-51e0-4bc7-8473-cbe59defac0a/smartarch_banner_1778857140939.png)
 
